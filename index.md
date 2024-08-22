@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Hack your knowledge : A blog about exploring InfoSec
 ---
 
